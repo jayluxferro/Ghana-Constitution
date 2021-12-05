@@ -4,4 +4,4 @@ https://apps.apple.com/us/app/ghanaian-constitution/id1280444472#?platform=iphon
 
 #### Data Files
 1. Schedule. <a href='app/GhanaianConstitution.app/schedule.json'> Download</a>
-2. Constitution. <a href='app/GhanaianConstitution.app/constitution.json'> Download</a>
+2. Constitution. <a href='app/GhanaianConstitution.app/consitution.json'> Download</a>
