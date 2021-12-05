@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DeviceBasedVPP</key>
+	<false/>
+	<key>artistName</key>
+	<string>Creativebot Limited</string>
+	<key>bundleShortVersionString</key>
+	<string>2.1.1</string>
+	<key>bundleVersion</key>
+	<string>1</string>
+	<key>com.apple.iTunesStore.downloadInfo</key>
+	<dict>
+		<key>accountInfo</key>
+		<dict>
+			<key>AltDSID</key>
+			<string>001310-10-feb15113-3b98-4f47-b6d8-fe83e1dacd78</string>
+			<key>AppleID</key>
+			<string>justiceowusuagyemang@gmail.com</string>
+			<key>DSPersonID</key>
+			<integer>829234727</integer>
+			<key>DownloaderID</key>
+			<integer>0</integer>
+			<key>FamilyID</key>
+			<integer>0</integer>
+			<key>PurchaserID</key>
+			<integer>829234727</integer>
+		</dict>
+		<key>purchaseDate</key>
+		<string>2021-08-28T10:09:55Z</string>
+	</dict>
+	<key>gameCenterEnabled</key>
+	<false/>
+	<key>gameCenterEverEnabled</key>
+	<false/>
+	<key>genre</key>
+	<string>Education</string>
+	<key>genreId</key>
+	<integer>6017</integer>
+	<key>hasMessagesExtension</key>
+	<false/>
+	<key>iad-attribution</key>
+	<string>0</string>
+	<key>is-auto-download</key>
+	<false/>
+	<key>is-purchased-redownload</key>
+	<true/>
+	<key>isFactoryInstall</key>
+	<false/>
+	<key>itemId</key>
+	<integer>1280444472</integer>
+	<key>itemName</key>
+	<string>Ghanaian Constitution</string>
+	<key>kind</key>
+	<string>software</string>
+	<key>launchProhibited</key>
+	<false/>
+	<key>rating</key>
+	<dict>
+		<key>label</key>
+		<string>4+</string>
+		<key>rank</key>
+		<integer>100</integer>
+	</dict>
+	<key>redownload-params</key>
+	<string>productType=C&amp;price=0&amp;salableAdamId=1280444472&amp;pricingParameters=STDRDL</string>
+	<key>releaseDate</key>
+	<string>2017-09-11T22:56:20Z</string>
+	<key>s</key>
+	<integer>143573</integer>
+	<key>sideLoadedDeviceBasedVPP</key>
+	<false/>
+	<key>softwareVersionBundleId</key>
+	<string>com.t3pixel.constitution.ghanaian</string>
+	<key>softwareVersionExternalIdentifier</key>
+	<integer>838803909</integer>
+	<key>sourceApp</key>
+	<string>com.apple.AppStore</string>
+	<key>storeCohort</key>
+	<string>10|date=1637872200000&amp;sf=143573&amp;pgtp=Software&amp;pgid=1280444472&amp;prpg=Search_72267007-92c0-446a-b543-22000fc4ea40&amp;ctxt=Search&amp;issrch=1</string>
+	<key>subgenres</key>
+	<array/>
+	<key>variantID</key>
+	<string>1:iPhone9,1:13</string>
+</dict>
+</plist>
